@@ -17,7 +17,7 @@ python ./count-ap.py XCC_StationEventsLog.csv 5C:A8:6A:8E:66:7A --start "May 5, 
 `python ./count-ap.py --help` will give you further instructions.
 
 ## analyze-pings.py
-The second script, `analyze-pings.py`, will take an IP address, look for a `.txt.` file with the name as that IP address in a folder called `wireless-ping`, and report on the success rate, timeout count, outliers, minimum, maximum, average and other stats
+The second script, `analyze-pings.py`, will take an IP address, look for a `.txt.` file with the same name as that IP address in a folder called `wireless-ping`, and report on the success rate, timeout count, outliers, minimum, maximum, average and other statistics.
 
 To use the script, after cloning the repo, run the following command:
 ```
