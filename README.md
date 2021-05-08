@@ -3,8 +3,8 @@
 This repo contains two sample python scripts, count-ap.py and 
 
 ## Requirements
-Python v3.5+
-`pandas` (to install, run `pip install pandas`)
+1. Python v3.5+
+2. `pandas` (to install, run `pip install pandas`)
 
 ## count-ap.py
 The first script, `count-ap.py`, will take as input a CSV file found in the same directory as itself, and count the different access points names between a start date and an end date.
