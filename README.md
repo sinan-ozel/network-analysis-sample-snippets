@@ -24,5 +24,5 @@ To use the script, after cloning the repo, run the following command:
 python .\analyze-pings.py 134.141.123.1
 ```
 
-`python ./count-ap.py --help` will give you further instructions.
+`python ./analyze-pings.py --help` will give you further instructions.
 
