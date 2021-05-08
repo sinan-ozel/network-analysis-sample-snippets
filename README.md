@@ -1,13 +1,13 @@
 # network-analysis-sample-snippets
 
-This repo contains two sample python scripts, count-ap.py and 
+This repo contains two sample python scripts, `count-ap.py` and `analyze-pings.py`.
 
 ## Requirements
 1. Python v3.5+
 2. `pandas` (to install, run `pip install pandas`)
 
 ## count-ap.py
-The first script, `count-ap.py`, will take as input a CSV file found in the same directory as itself, and count the different access points names between a start date and an end date.
+The first script, `count-ap.py`, takes as input a CSV file found in the same directory as itself, and count the different access points names between a start date and an end date.
 
 To use the script, after cloning the repo, run the following command:
 ```
